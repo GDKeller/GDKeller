@@ -1,16 +1,16 @@
-## Hi there 👋
+# Obsessed with the intersection of human and machine
 
-<!--
-**GDKeller/GDKeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Web Frontend/UX, Embedded Systems, AI applications
 
-Here are some ideas to get you started:
+🤖 Co-Founder of [Davant Systems](https://davantsystems.com) - Building next-gen creative software for visual arts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📡 Embedded SoC firmware for NASA's JPL, Natural History Museum of Los Angeles
+
+🎥 2x Emmy & 2x Addy award winner for Film & TV directing & editing
+
+
+<br>
+
+React/Typescript - ESP32/C++ - Python/AI
+
+<br>
