@@ -2,7 +2,9 @@
 
 ## Web Frontend/UX, Embedded Systems, AI applications
 
-🤖 Co-Founder of [Davant Systems](https://davantsystems.com) - Building next-gen creative software for visual arts
+🤖 Technical Lead at [Davant Systems](https://davantsystems.com) - Building next-gen creative software for visual arts
+
+💻 Senior frontend UX engineer building performant, accessible, stunning experiences for huge audiences
 
 📡 Embedded SoC firmware for NASA's JPL, Natural History Museum of Los Angeles
 
@@ -11,6 +13,6 @@
 
 <br>
 
-React/Typescript - ESP32/C++ - Python/AI
+React/Typescript | SCSS/GSAP | Python/AI | ESP32/C++
 
 <br>
