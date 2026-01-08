@@ -8,7 +8,7 @@
 
 ## Work
 **Current:**
-**Lead Engineer at [Davant Systems](https://davantsystems.com)** - Building AI-powered creative software for visual arts professionals
+**Lead Engineer at [Davant Systems](https://davantsystems.com)** - Building AI-powered creative software for visual arts professionals & conjuring good vibes with the [Magic Mirror](https://www.davantsystems.com/photobooth/)
 
 **Previous:** NASA JPL, [Natural History Museum of LA](https://nhm.org/anglerfish), [Alley Interactive](https://alley.com/) (New York Post), [Studio III](https://www.studio3marketing.com/), Keller Digital (LA Dept. of Public Health, Dun & Bradstreet)
 
